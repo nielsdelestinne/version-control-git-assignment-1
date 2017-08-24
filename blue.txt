@@ -1,1 +1,1 @@
-I am color blue 
+I am a file with blue as my name 
